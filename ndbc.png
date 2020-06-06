@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://www.shaktiinfotech.in/index.html -->
+<html class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths cssradialgradients"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+	<title>Welcome to Shakti Info Tech Pvt. Ltd.       |    Master Tally Partner, Tally Integrator &amp; Tally Service Partner</title>
+	
+<meta name="keywords" content="t has been a continuous endeavor of SIPL, since its inception in 2003, to deliver advance solutions across the spectrum from accounting through intelligence. TSPL’s ready-to-deploy product through SIPL’s offerings are scalable, flexible and easy to customize to specific requirements – further allowing integration with any existing system. Currently, SIPL’s product range includes “Tally.ERP 9” – a sophisticated Business Solution Software, and “Shoper 9” for the Retail Industry">
+<meta name="description" content="t has been a continuous endeavor of SIPL, since its inception in 2003, to deliver advance solutions across the spectrum from accounting through intelligence. TSPL’s ready-to-deploy product through SIPL’s offerings are scalable, flexible and easy to customize to specific requirements – further allowing integration with any existing system. Currently, SIPL’s product range includes “Tally.ERP 9” – a sophisticated Business Solution Software, and “Shoper 9” for the Retail Industry">
+
+	<!--<base>--><base href=".">
+	
+	<meta name="HandheldFriendly" content="True">
+	
+
+	<script type="text/javascript" src="./ndbc_files/header_scripts.js.download"></script>
+
+
+<script type="text/javascript">
+Array.prototype.shuffle = function() {
+	var s = [];
+	while (this.length) s.push(this.splice(Math.random() * this.length, 1));
+	while (s.length) this.push(s.pop());
+	return this;
+}
+$(document).ready(function(){
+    if(!$('a[href$=".pdf"]').find('.txt').length){
+      var text = $('a[href$=".pdf"]').html();
+      $('a[href$=".pdf"]').html('<div class="txt">'+ text + '</div>')
+    }
+})
+</script>   
+<style>
+@font-face {
+    font-family: 'HattoriHanzoLight';
+
+    src: url('themes/silver/css/hattori_hanzo-webfont.html');
+
+    src: url('themes/silver/css/hattori_hanzo-webfont86d7.html?iefix') format('eot'),
+         url('themes/silver/css/hattori_hanzo-webfont-2.html') format('woff'),
+         url('themes/silver/css/hattori_hanzo-webfont-3.html') format('truetype'),
+         url('themes/silver/css/hattori_hanzo-webfont.svg#webfontjulfKoyS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#top_nav li > ul {
+	visibility:hidden;
+	opacity:0;
+
+	-o-transition:visibility 0s ease 0.4s, opacity 0.3s ease 0.1s;
+	-moz-transition:visibility 0s ease 0.4s, opacity 0.3s ease 0.1s;
+	-webkit-transition:visibility 0s ease 0.4s, opacity 0.3s ease 0.1s;
+	transition:visibility 0s ease 0.4s, opacity 0.3s ease 0.1s;
+}
+#top_nav li:hover > ul {
+	visibility:visible;
+	opacity:1;
+
+	-moz-transition:visibility 0s ease 0.2s, opacity 0.3s ease 0.2s;
+	-o-transition:visibility 0s ease 0.2s, opacity 0.3s ease 0.2s;
+	-webkit-transition:visibility 0s ease 0.2s, opacity 0.3s ease 0.2s;
+	transition:visibility 0s ease 0.2s, opacity 0.3s ease 0.2s;
+}
+</style>
+<script type="text/javascript">
+    if (/Opera Mini/.test(navigator.userAgent)) {
+    	document.getElementsByTagName('html')[0].className += ' operamini';
+    }
+</script>
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="/themes/silver/css/pie.css"/>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="./ndbc_files/main.css">
+</head>
+<body class="en HomePage">
+<div id="top_menu">
+  <div class="wrapp">
+    <ul id="top_nav">
+      <li class="home first"><a href="http://www.shaktiinfotech.in/index.html"><span></span></a></li>
+      <li class=" submenu"> <a href="http://www.shaktiinfotech.in/company/index.html" class="link"><span>Company</span></a>
+          <ul style="width:180px">
+            <li class=" first submenu"> <a href="http://www.shaktiinfotech.in/company/contacts/contact-information/index.html" class="link"><span>Contacts</span></a>
+                <ul style="width:170px">
+                  <li class=" first"> <a href="http://www.shaktiinfotech.in/company/contacts/contact-information/index.html" class="link"><span>Contact Information</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/company/contacts/request-a-quote/index.html" class="link"><span>Request a Quote</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/company/contacts/call-me-back/index.html" class="link"><span>Call me Back</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/company/contacts/for-partners/index.html" class="link"><span>For Partners</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/company/contacts/request-online-presentation/index.html" class="link"><span>Request Online Presentation</span></a>
+              </li></ul>
+            </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/company/about-us/index.html" class="link"><span>About Us</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/company/mission-and-values/index.html" class="link"><span>Mission and Values</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/company/careers/index.html" class="link"><span>Careers</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/company/Our-Partners/index.html" class="link"><span>Our Partners</span></a> </li>
+            <li class=" last"> <a href="http://www.shaktiinfotech.in/company/Our-Team/index.html" class="link"><span>Our Team</span></a> </li>
+          </ul>
+      </li>
+      <li class=" submenu"> <a href="http://www.shaktiinfotech.in/services/index.html" class="link"><span>Services</span></a>
+          <ul style="width:210px">
+            <li class=""> <a href="http://www.shaktiinfotech.in/services/onsite-and-remote-support/index.html" class="link"><span>Onsite and Remote Support</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/services/annual-support-cover/index.html" class="link"><span>Annual Support Cover</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/services/priority-tally-support/index.html" class="link"><span>Priority Tally Support</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/services/tally-services/index.html" class="link"><span>Tally.net Services </span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/services/implementation-services/index.html" class="link"><span>Implementation Services</span></a></li>
+                          
+            <li class=" "> <a href="http://www.shaktiinfotech.in/services/customization-services/index.html" class="link"><span>Customization Services</span></a> </li>
+            <li class=" "> <a href="http://www.shaktiinfotech.in/services/tally-ready-invoies-customization/index.html" class="link"><span>Tally Ready Invoies Customization</span></a> </li>
+            <li class=" "> <a href="http://www.shaktiinfotech.in/services/synchronization-implementation/index.html" class="link"><span>Synchronization Implementation</span></a> </li>
+            <li class=" last"> <a href="http://www.shaktiinfotech.in/services/website-design-development/index.html" class="link"><span>Website Design &amp; Development</span></a> </li>
+          </ul>
+      </li>
+    <li class=" submenu"> <a href="http://www.shaktiinfotech.in/product/index.html" class="link"><span>Product</span></a>
+      <ul style="width:210px">
+            <li class=""> <a href="http://www.shaktiinfotech.in/product/SAP%20Business%20One/index.html" class="link"><span>SAP Business One</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/product/tally-erp9/index.html" class="link"><span>Tally ERP9</span></a> </li>
+            <li class=" "> <a href="http://www.shaktiinfotech.in/product/tally-server9/index.html" class="link"><span>Tally Server 9</span></a> </li>
+            <li class=" "> <a href="http://www.shaktiinfotech.in/product/tally-erp9-auitor-edition/index.html" class="link"><span>Tally ERP 9 Auitor's Edition</span></a> </li>
+            <li class=" "> <a href="http://www.shaktiinfotech.in/product/tally-shoper9/index.html" class="link"><span>Tally Shoper 9</span></a> </li>
+            <li class="last "> <a href="http://www.shaktiinfotech.in/product/tally-developer/index.html" class="link"><span>Tally Developer</span></a> </li>
+          </ul>
+      </li>
+    <li class=" submenu"> <a href="http://www.shaktiinfotech.in/solution.html" class="link"><span>Solution</span></a>
+          <ul style="width:235px">
+            <li class=" first submenu"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Vertical Solution for Tally ERP 9</span></a>
+                <ul style="width:250px">
+                  <li class=" first"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Manufacturer</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Pharmaceuticals </span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Engineering</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Bulk Durgs &amp; Chemicals</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Textiles</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Packaging </span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Retail</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Supply Chain</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Government</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>ERP for Educational Institution </span></a> </li>
+                  <li class=" last"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Freight Forwarders </span></a> </li>
+                </ul>
+            </li>
+            <li class=" submenu"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Customizations Solutions</span></a>
+                <ul style="width:250px">
+                  <li class=" first"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>How can we help you?</span></a> </li>
+                  <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Elements of Engagement</span></a> </li>
+                  <li class="last"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Post Sales Support</span></a> </li>
+                </ul>
+            </li>
+            <li class=" "> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Tally Ready Add-on Modules</span></a> </li>
+            <li class=" last"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Tally Inteqration</span></a> </li>
+          </ul>
+      </li>
+	  <li class=" submenu"> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Project</span></a>
+      <ul style="width:250px">
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Bihar Mahadalit Vikas Mission</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Bihar Rural Development Society</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Bihar Education Project Council</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Bihar State Health Society</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>BRLPS</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>DDU-GKY</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>PMKVY</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Jharkhand Skills Development Mission</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>NULM/NRLM</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>CSR</span></a> </li>
+            <li class=""> <a href="http://www.shaktiinfotech.in/index.html#" class="link"><span>Ministry of Minority Affairs Scheme</span></a> </li>
+            
+          </ul>
+      </li>
+      <li class=" submenu"> <a href="http://www.shaktiinfotech.in/case-studies/index.html" class="link"><span>Case Study</span></a> </li>
+      <li class=" submenu"> <a href="http://www.shaktiinfotech.in/clients/our-clients/index.html" class="link"><span>Clients</span></a>
+          <ul style="width:180px">
+            <li class=" "> <a href="http://www.shaktiinfotech.in/clients/our-clients/index.html" class="link"><span>Our Clients</span></a>
+                <ul style="width:250px">
+                </ul>
+            </li>
+            <li class="last "> <a href="http://www.shaktiinfotech.in/clients/testimonials/index.html" class="link"><span>Testimonials</span></a>
+                <ul style="width:310px">
+                </ul>
+            </li>
+          </ul>
+      </li>
+       
+      <li class=" submenu"> <a href="http://www.shaktiinfotech.in/download.html" class="link"><span>Download</span></a> </li>
+    </ul>
+    
+    
+    
+    
+    <script>
+(function($) {
+	var m = function() {
+		this.children('li').each(function(n) {
+			var self = $(this);
+			if (self.hasClass('submenu')) {
+				m.call(self.children('ul'));
+				return;
+			}
+			if (self.hasClass('last') || self.hasClass('first') || n < 20)
+				return;
+
+			self.css('display', 'none');
+		});
+	};
+	m.call($('#top_nav'));
+})(jQuery);
+</script>
+    <a class="logo_proj top" href="http://www.shaktiinfotech.in/index.html" alt="Home Page"></a> <a class="logo_proj bottom" href="http://www.shaktiinfotech.in/index.html" alt="Home Page"></a> </div>
+</div>
+<div id="header">
+	<div class="right_end"></div>
+	<div class="header_container">
+		<div class="right"></div>
+		<div class="wrapp" id="main-slider">
+			<div class="header-right">
+			    <div class="lng_switch_row">
+	
+	<div class="clear"></div>
+</div>
+
+			  <div class="widget">
+<ul class="level0 whatwedoreplace"><li><a class="first header-button livezilla" href="http://www.shaktiinfotech.in/company/contacts/contact-information/support.html" title=" Remote support">Remote Support</a></li><li><a class="mid header-button pilotproject" href="http://www.shaktiinfotech.in/index.html#" title="Online Buy">Buy Online</a></li><li><a class="last header-button contactus" href="http://www.shaktiinfotech.in/company/contacts/contact-information/index.html" title="Contact Us">Contact Us</a></li></ul>
+</div>
+			</div>
+			
+				
+					
+						<div class="project" id="mobile-testing-slide" style="display: block;">
+							<div class="img HomeHeaderTeasers" style="width:261px;height:261px;background:url(assets/_sprites/a4c43f6eae92b3b0ba8e7dcc7dd679e4/sprite.png) 0 -0px no-repeat;"></div>
+							<div class="frame"></div>
+							<h3>Educational ERP includes the following major functionalities</h3>
+							<p>Fees Management System<br>
+Attendance Management System<br>
+Exam Management<br>
+Result Management<br>
+Printing of I-Card, bona fide certificate, leaving certificate<br>
+Library Management System<br>
+Transportation Management<br>
+</p>
+						</div>
+					
+						<div class="project hidden" id="pilot-project-slide" style="display: none;">
+							<div class="img HomeHeaderTeasers" style="width:261px;height:261px;background:url(assets/_sprites/a4c43f6eae92b3b0ba8e7dcc7dd679e4/sprite.png) 0 -261px no-repeat;"></div>
+							<div class="frame"></div>
+							<h3>Vertical Solutions for Tally.ERP 9</h3>
+							<p>Manufacturing<br>
+Pharmaceuticals<br>
+Engineeringt<br>
+Bulk Drugs &amp; Chemicals<br>
+Textiles<br>
+Packaging<br>
+Retail<br>
+Supply Chain<br>
+Government<br>
+ERP for Educational Institution<br>
+Freight Forwarders<br>
+
+</p>
+						</div>
+					
+						<div class="project hidden" id="automated-testing-slide" style="display: none;">
+							<div class="img HomeHeaderTeasers" style="width:261px;height:261px;background:url(assets/_sprites/a4c43f6eae92b3b0ba8e7dcc7dd679e4/sprite.png) 0 -522px no-repeat;"></div>
+							<div class="frame"></div>
+							<h3>ERP Solutions for Manufacturers</h3>
+							<p>Tally forms the foundation on which all our enterprise solutions, products, and services are built and delivered. The system has been designed utilizing the full power of Tally. </p>
+
+						</div>
+					
+						<div class="project hidden" id="magento-test-suite-slide" style="display: none;">
+							<div class="img HomeHeaderTeasers" style="width:261px;height:261px;background:url(assets/_sprites/a4c43f6eae92b3b0ba8e7dcc7dd679e4/sprite.png) 0 -783px no-repeat;"></div>
+							<div class="frame"></div>
+							<h3>Annual Support Cover</h3>
+							<p>Save precious time by solving Tally issues with the Tally Experts. With unlimited calls, email support and now even Instant Remote Support, you'll get accurate answers fast, so that you can back to work immediately.</p>
+						</div>
+					
+						<div class="project hidden" id="software-testing-lab-slide" style="display: none;">
+							<div class="img HomeHeaderTeasers" style="width:261px;height:261px;background:url(assets/_sprites/a4c43f6eae92b3b0ba8e7dcc7dd679e4/sprite.png) 0 -1044px no-repeat;"></div>
+							<div class="frame"></div>
+							<h3>Tally Onsite and Remote Support</h3>
+							<p>Installation and Implementation services<br>
+Data migration services<br>
+Data synchronisation set-up and support<br>
+On-site training<br>
+</p>
+						</div>
+					
+				
+			
+		</div>
+		<div class="navigation">
+			<a href="http://www.shaktiinfotech.in/index.html#" class="back"></a>
+			<a href="http://www.shaktiinfotech.in/index.html#" class="play" style="display: none;"></a>
+			<a href="http://www.shaktiinfotech.in/index.html#" class="pause" style=""></a>
+			<a href="http://www.shaktiinfotech.in/index.html#" class="next"></a>
+		</div>
+		
+			
+				<a href="http://www.shaktiinfotech.in/services/special-offer/mobile-testing/" class="service" id="linkServiceID">Check Service</a>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+			<a href="http://www.shaktiinfotech.in/company/contacts/request-a-quote/index.html" class="quote">Get a Quote</a>
+		
+	</div>
+</div>
+<div id="top_panel">
+<div class="wrapp">
+	<div class="silver">
+		<div class="blue" style="width: 224px;"></div>
+	</div>
+	<ul>
+		
+			<li class="active">
+				<div class="bug bug1" id="mobile-testing" style="display: block;"></div>
+				<a href="http://www.shaktiinfotech.in/index.html#">ERP for Educational</a>
+			</li>
+		
+			<li class="">
+				<div class="bug bug2" id="pilot-project" style="display: none;"></div>
+				<a href="http://www.shaktiinfotech.in/index.html#">Vertical Solutions</a>
+			</li>
+		
+			<li class="">
+				<div class="bug bug3" id="automated-testing" style="display: none;"></div>
+				<a href="http://www.shaktiinfotech.in/index.html#">Manufacturers</a>
+			</li>
+		
+			<li class="">
+				<div class="bug bug4" id="magento-test-suite" style="display: none;"></div>
+				<a href="http://www.shaktiinfotech.in/index.html#">Support</a>
+			</li>
+		
+			<li class="">
+				<div class="bug bug5" id="software-testing-lab" style="display: none;"></div>
+				<a href="http://www.shaktiinfotech.in/index.html#">Training</a>
+			</li>
+		
+	</ul>
+</div>
+</div>
+<script type="text/javascript">
+// Use end slashes in urls (example  my/example/url/) for SEO
+jQuery(document).ready(function() {
+	QaSlider.initialize({
+		linkServiceUrls: {
+			
+				"mobile-testing" : "/services/special-offer/mobile-testing/",
+			
+				"pilot-project" : "/global-approach/engagement-models/pilot-project/",
+			
+				"automated-testing" : "/services/We-Are-Professionals-in/automated-testing/",
+			
+				"magento-test-suite" : "/services/special-offer/magento-test-suite/",
+			
+				"software-testing-lab" : "/technologies/software-testing-lab/"
+			
+		}
+	});
+	QaSlider.play();
+	QaProjectSlider.initialize({
+		slideshow: false
+	})
+});
+jQuery("#top_panel li").bind("mousemove",function(){
+    jQuery(this).find("div").show();
+});
+jQuery("#top_panel li").bind("mouseout",function(){
+    if(!jQuery(this).hasClass("active"))
+        jQuery(this).find("div").hide();
+});
+</script>
+
+<div id="main-area" class="homepage">
+	<div class="wrapp">
+		<div class="col left">
+			<h1>Who We Are and What We Do</h1>
+			
+	<div class="accordion ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
+		
+			<a href="http://www.shaktiinfotech.in/index.html#" class="tab_nav ui-accordion-header ui-helper-reset ui-state-active ui-corner-top" role="tab" aria-expanded="true" tabindex="0"><span class="ui-icon ui-icon-triangle-1-s"></span>Company Profile</a>
+			<div class="tab ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" style="display:block" role="tabpanel">
+				<div class="tab_inner">
+					<p align="justify">It has been a continuous endeavor of SIPL, since its inception in 2003, to deliver advance solutions across the spectrum from accounting through intelligence. TSPL’s ready-to-deploy product through SIPL’s offerings are scalable, flexible and easy to customize to specific requirements – further allowing integration with any existing system. Currently, SIPL’s product range includes “Tally.ERP 9” – a sophisticated Business Solution Software, and “Shoper 9” for the Retail Industry.</p>
+				  <a class="link_read_more" href="http://www.shaktiinfotech.in/company/about-us/index.html">Read more&nbsp;<span class="quote">»</span></a>
+				</div>
+			</div>
+		
+			<a href="http://www.shaktiinfotech.in/index.html" class="tab_nav ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span>Sales (Distribution &amp; Retail)</a>
+			<div class="tab ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+				<div class="tab_inner">
+					<p align="justify">For last nine years, SIPL is working as regional distributor of Tally Solutions Pvt. Ltd. (accounting software company with its business across the globe). SIPL is also a sales associates of Trend Micro, Quick Heal, School Management ERP Solution, and breezing software. At present we are working in two region (Bihar &amp; Jharkhand) as Master Tally Partner (MTP) of Tally Solutions Pvt. Ltd.</p>
+					<a class="link_read_more" href="http://www.shaktiinfotech.in/company/about-us/index.html">Read more&nbsp;<span class="quote">»</span></a>
+				</div>
+			</div>
+		
+			<a href="http://www.shaktiinfotech.in/index.html#" class="tab_nav ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span>Services (Infrastructure &amp; Support) </a>
+			<div class="tab ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+				<div class="tab_inner">
+					<p align="justify">We are the authorized service provider for Tally.ERP 9. Since our inception, apart from private sector, we are also providing services to various government and non-governmental organisations like National Rural Healh Mission (NRHM), Bihar Education Project Council (BEPC), Bihar State Electricity Board, Jeevika, Mahila Samakhya, Bihar Rajaya Pul Nirman Nigam Ltd. , etc.</p>
+					<a class="link_read_more" href="http://www.shaktiinfotech.in/company/about-us/index.html">Read more&nbsp;<span class="quote">»</span></a>
+				</div>
+			</div>
+		
+			<a href="http://www.shaktiinfotech.in/index.html#" class="tab_nav ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span>Mission and Values</a>
+			<div class="tab ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+				<div class="tab_inner">
+					<p>Our mission is to solve business problems by delivering high quality services in software testing at the best price.</p>
+<p>&nbsp;</p>
+<p>In our relations with our customers we are always focused on results, fully satisfying us and the customer, and only then will we get real pleasure from the done work and tested system.</p>
+					<a class="link_read_more" href="http://www.shaktiinfotech.in/company/mission-and-values/index.html">Read more&nbsp;<span class="quote">»</span></a>
+				</div>
+			</div>
+		
+	</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.accordion').accordion({
+	    autoHeight:false,
+	    header:"a.tab_nav"
+	});
+});
+</script>
+
+			<div id="s3slider">
+    
+		
+			<ul id="s3sliderContent">
+				
+					<li class="s3sliderImage" style="display: list-item;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -0px no-repeat;"></div>
+						<span class="bottom" style="display: inline;"><b>Tally ERP9</b></span>					</li>
+				
+					<li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -380px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>Tally ERP9</b><br> </span>					</li>
+				
+					<li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -760px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>Shakti Infotech Pvt. Ltd.  Winning story.</b><br> </span>					</li>
+				
+					<li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -1140px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>In Workshop </b></span>					</li>
+				
+					<li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -1520px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>Our Product</b> </span>					</li>
+                        
+						<li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -1900px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>Shakti Infotech is an authorised tally institute of learning in Bihar</b> </span>					</li>
+			
+            <li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -2280px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>Shakti Infotech is an authorised tally institute of learning in Bihar</b> </span>					</li>
+
+<li class="s3sliderImage" style="display: none;">
+						<div class="PresentationTeaser" style="width:410px;height:380px;background:url(assets/_sprites/1cf84e46a29c766519c4bca3e9ff7b66/sprite.png) 0 -2600px no-repeat;"></div>
+						<span class="bottom" style="display: none;"><b>Mr. Roshan dhandharia” met with honorable chief minister of Bihar “Mr.Nitish Kumar</b> </span>					</li>
+                        
+				<div class="clear s3sliderImage" style="clear:both;"></div>
+			</ul>
+		
+	
+	<a class="s3prev nav" href="http://www.shaktiinfotech.in/index.html#" style="visibility: visible;"></a>
+	<a class="s3next nav" href="http://www.shaktiinfotech.in/index.html#" style="visibility: visible;"></a></div>
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+	   jQuery('#s3slider').s3Slider({timeOut: 5000});
+	});
+</script>
+
+		</div>
+		<div class="col mid">
+			<div class="news">
+	<h3>Case Study</h3>
+	
+		<div class="box odd">
+			<div class="text">
+				<a href="http://www.shaktiinfotech.in/index.html#" class="title" onclick="MM_openBrWindow(&#39;case-studies/case_study/Bihar State Power Holding.pdf&#39;,&#39;&#39;,&#39;resizable=yes,width=500,height=600&#39;)">Bihar State Power Holding</a>
+				Tally ERP.9 enhances the prductivity of Bihar State Power Holding&nbsp;<p></p>
+<p>&nbsp;</p>
+				
+			</div>
+		  &nbsp;<a href="http://www.shaktiinfotech.in/index.html#" class="link_read_more" onclick="MM_openBrWindow(&#39;case-studies/case_study/Bihar State Power Holding.pdf&#39;,&#39;&#39;,&#39;resizable=yes,width=500,height=600&#39;)">Read more&nbsp;<span class="quote">»</span></a>		</div>						
+	
+		<div class="box even">
+			<div class="text">
+				<a href="http://www.shaktiinfotech.in/index.html#" class="title" onclick="MM_openBrWindow(&#39;case-studies/case_study/BiharMahilaSamakhya.pdf&#39;,&#39;&#39;,&#39;resizable=yes,width=500,height=600&#39;)">Bihar Mahila Samakhya</a>
+				Tally ERP.9 improve fund management in Bihar Mahila Samakhya			</div>
+		  &nbsp;<a href="http://www.shaktiinfotech.in/index.html#" class="link_read_more" onclick="MM_openBrWindow(&#39;case-studies/case_study/BiharMahilaSamakhya.pdf&#39;,&#39;&#39;,&#39;resizable=yes,width=500,height=600&#39;)">Read more&nbsp;<span class="quote">»</span></a>		</div>						
+	
+		<div class="box odd">
+			<div class="text">
+				<a href="http://www.shaktiinfotech.in/index.html#" class="title" onclick="MM_openBrWindow(&#39;case-studies/case_study/BiharRajyaPulNirmanNigam.pdf&#39;,&#39;&#39;,&#39;resizable=yes,width=500,height=600&#39;)">Bihar RajyaPul Nirman Nigam</a>
+				Tally boosts productivity of Bihar Rajya Pul Nirman Nigam to 300%			</div>
+		  &nbsp;<a href="http://www.shaktiinfotech.in/index.html#" title="Bihar Rajya Pul Nirman Nigam" class="link_read_more" onclick="MM_openBrWindow(&#39;case-studies/case_study/BiharRajyaPulNirmanNigam.pdf&#39;,&#39;&#39;,&#39;resizable=yes,width=500,height=600&#39;)">Read more&nbsp;<span class="quote">»</span></a>		</div>						
+	
+	
+		
+			
+				<a href="http://www.shaktiinfotech.in/case-studies/index.html" class="readmore">All News &nbsp;»</a></div>
+
+		</div>
+		<div class="col right">
+			<div class="slider">
+    
+		
+			<ul>
+				
+					<li style="">
+						<h3><div class="title">Our other services</div><a href="http://www.shaktiinfotech.in/index.html#">more about this services</a></h3>
+						<div style="">
+							<div align="justify"><a href="http://www.shaktiinfotech.in/index.html#" class="inherited LatestProjects" style="width:239px;height:197px;background:url(assets/_sprites/e563d654aba5a2ff8ed3f415e750000e/sprite.png) 0 -0px no-repeat;"></a>
+							    <a href="http://www.shaktiinfotech.in/index.html#" class="inherited">															
+						        Tally Education has been incorporated to empower the current and next generation employees to contribute effectively towards their work, while finding personal success. Tally is committed to working with educators, educational organizations and industry partners to expand the world of learning through technology. 
+						      </a>
+						      </div>
+						</div>
+			  </li>
+				
+					<li style="display: none">
+						<h3><div class="title">Our other services</div><a href="http://www.shaktiinfotech.in/index.html#">more about this services</a></h3>
+						<div style="display: none">
+							<a href="http://www.shaktiinfotech.in/index.html#" class="inherited LatestProjects" style="width:239px;height:150px;background:url(assets/_sprites/e563d654aba5a2ff8ed3f415e750000e/sprite.png) 0 -197px no-repeat;"></a>
+							<a href="http://www.shaktiinfotech.in/index.html#" class="inherited">															
+						At SITPL, we understand the need to develop well-conceived and planned websites that will be an integral constituent of your company's identification, image and communication structure.
+								
+							</a>
+						</div>
+					</li>
+				
+                        <li style="display: none">
+                            <h3><div class="title">Our other services</div><a href="http://www.shaktiinfotech.in/index.html#">more about this services</a></h3>
+                            <div style="display: none">
+                                <a href="http://www.shaktiinfotech.in/index.html#" class="inherited LatestProjects" style="width:239px;height:150px;background:url(assets/_sprites/e563d654aba5a2ff8ed3f415e750000e/sprite.png) 0 -347px no-repeat;"></a>
+                                <a href="http://www.shaktiinfotech.in/index.html#" class="inherited">
+                                    
+                                    
+                            coming soon
+                                    
+                                </a>
+                            </div>
+                        </li>
+                    
+                        <li style="display: none">
+                            <h3><div class="title">Our other services</div><a href="http://www.shaktiinfotech.in/index.html#">more about this services</a></h3>
+                            <div style="display: none">
+                                <a href="http://www.shaktiinfotech.in/index.html#l" class="inherited LatestProjects" style="width:239px;height:150px;background:url(assets/_sprites/e563d654aba5a2ff8ed3f415e750000e/sprite.png) 0 -497px no-repeat;"></a>
+                                <a href="http://www.shaktiinfotech.in/index.html#" class="inherited">
+                                    
+                                    
+                                        coming soon
+                                </a>
+                            </div>
+                        </li>
+                    
+                        <li style="display: none">
+                            <h3><div class="title">Our other services</div><a href="http://www.shaktiinfotech.in/index.html#">more about this services</a></h3>
+                            <div style="display: none">
+                                <a href="http://www.shaktiinfotech.in/index.html#" class="inherited LatestProjects" style="width:239px;height:150px;background:url(assets/_sprites/e563d654aba5a2ff8ed3f415e750000e/sprite.png) 0 -647px no-repeat;"></a>
+                                <a href="http://www.shaktiinfotech.in/index.html#" class="inherited">
+                                    
+                                    
+                            coming soon
+                                    
+                                </a>
+                            </div>
+                        </li>
+                    
+                </ul>
+			<div class="items">
+				<a href="http://www.shaktiinfotech.in/index.html#" class="active">1</a><a href="http://www.shaktiinfotech.in/index.html#">2</a><a href="http://www.shaktiinfotech.in/index.html#">3</a><a href="http://www.shaktiinfotech.in/index.html#">4</a><a href="http://www.shaktiinfotech.in/index.html#">5</a>
+			</div>
+		
+	
+	<a href="http://www.shaktiinfotech.in/index.html#" class="next nav"></a>
+	<a href="http://www.shaktiinfotech.in/index.html#" class="prev nav"></a>
+</div>
+
+			
+    <h3>Testimonials:</h3>
+	<div class="sidebartestimonials">
+	    <div class="text" style="opacity: 1; filter: none;"><a href="http://www.shaktiinfotech.in/index.html#"><span class="ellipsis_text">123</span></a></div>
+		<div class="carouselle" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 280px;">
+			<a class="nav prev" href="http://www.shaktiinfotech.in/index.html#"></a>
+			<a class="nav next" href="http://www.shaktiinfotech.in/index.html#"></a>
+			
+				<ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 840px; left: -560px;"><li style="overflow: visible; float: left; width: 280px; height: 200px;">
+								<a href="http://www.shaktiinfotech.in/index.html#" title="ABC"><div class="AllTestimonials" style="width:83px;height:83px;background:url(assets/_sprites/4249d60dd3e84f8c383e91515aef88ac/sprite.png) 0 -0px no-repeat;"></div></a>
+								<div class="name"><a href="http://www.shaktiinfotech.in/index.html#">ABC</a></div>
+								<div class="occupation"><a href="http://www.shaktiinfotech.in/index.html#">ABC India</a></div>
+								<div class="data"><a href="http://www.shaktiinfotech.in/index.html#"><span class="ellipsis_text">123</span></a></div>
+							</li>
+					
+						
+							
+						
+							
+						
+					
+				<li style="overflow: visible; float: left; width: 280px; height: 200px;">
+								<a href="http://www.shaktiinfotech.in/index.html#" title="ABC"><div class="AllTestimonials" style="width:83px;height:83px;background:url(assets/_sprites/4249d60dd3e84f8c383e91515aef88ac/sprite.png) 0 -0px no-repeat;"></div></a>
+								<div class="name"><a href="http://www.shaktiinfotech.in/index.html#">ABC</a></div>
+								<div class="occupation"><a href="http://www.shaktiinfotech.in/index.html#">ABC India</a></div>
+								<div class="data"><a href="http://www.shaktiinfotech.in/index.html#"><span class="ellipsis_text">123</span></a></div>
+							</li><li style="overflow: visible; float: left; width: 280px; height: 200px;">
+								<a href="http://www.shaktiinfotech.in/index.html#" title="ABC"><div class="AllTestimonials" style="width:83px;height:83px;background:url(assets/_sprites/4249d60dd3e84f8c383e91515aef88ac/sprite.png) 0 -0px no-repeat;"></div></a>
+								<div class="name"><a href="http://www.shaktiinfotech.in/index.html#">ABC</a></div>
+								<div class="occupation"><a href="http://www.shaktiinfotech.in/index.html#">ABC India</a></div>
+								<div class="data"><a href="http://www.shaktiinfotech.in/index.html#"><span class="ellipsis_text">123</span></a></div>
+							</li></ul>
+			
+		</div>
+	</div>
+
+<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+	    var ul = jQuery(".sidebartestimonials ul");
+	    var txt = jQuery(".sidebartestimonials .text");
+	    jQuery(jQuery("li", ul).detach().toArray().shuffle()).each(function(n) {
+	    	ul.append(this);
+	    });
+
+	    txt.html(jQuery("li:first-child .data", ul).html());
+    	txt.find('a').ThreeDots({max_rows:5});
+		jQuery(".sidebartestimonials .carouselle").jCarouselLite({
+			btnNext: ".sidebartestimonials .next",
+			btnPrev: ".sidebartestimonials .prev",
+			scroll: 1,
+			visible: 1,
+			speed: 600,
+			mouseWheel: true,
+			circular:true,
+			timeout:16000,
+			auto: 50000,
+			easing: "easeInOutCubic",
+			beforeStart: function() {
+				txt.animate({opacity:0},400);
+			},
+			afterEnd: function(obj) {
+				txt.html(jQuery(".data", obj).html()).animate({opacity:1},400, function(){
+                    txt.html(jQuery(".data", obj).html()).css('filter', 'none'); //for ie8
+                });
+		    	txt.find('a').ThreeDots({max_rows:5});
+			}
+		});
+	});
+</script>	
+
+
+			
+		</div>
+		<div id="clients_panel">
+	<div class="inner1">
+		<div class="inner2">
+			<div class="caption">Our Clients:</div>
+			<div class="inner minigallery-list">
+				<a class="minigalleryprev prev">Prev</a>
+				<a class="minigallerynext next">Next</a>
+				<div class="minigallery" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 705px;">
+				    
+						<ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 3243px; left: -1128px;"><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -402px no-repeat;" title="Bihar State Warehousing Corporation" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -201px no-repeat;" title="Bihar Rajya Pul Nirman Nigam Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -335px no-repeat;" title="Bihar Education Project council" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -603px no-repeat;" title="Bihar State Water &amp; Sanitation Mission" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -670px no-repeat;" title="Bihar State Co-Operative Milk Prod. Fed. Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li>
+						    
+						    	
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+							    	
+							    
+						
+							    
+							    	
+							    
+							    	
+							
+						<li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -67px no-repeat;" title="Bihar State Road Development Corp Pvt. Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -804px no-repeat;" title="Nagar Nigam, Patna " href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -268px no-repeat;" title="Birla Institute of Technology" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -0px no-repeat;" title="Bihar State Tourism Development Corporation Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -469px no-repeat;" title="Mahila Samakhya- Bihar" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -134px no-repeat;" title="Bihar State Electricity Board " href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -737px no-repeat;" title="Central University of Bihar" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -536px no-repeat;" title="National Rural Health Mission-Bihar" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -402px no-repeat;" title="Bihar State Warehousing Corporation" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -201px no-repeat;" title="Bihar Rajya Pul Nirman Nigam Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -335px no-repeat;" title="Bihar Education Project council" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -603px no-repeat;" title="Bihar State Water &amp; Sanitation Mission" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -670px no-repeat;" title="Bihar State Co-Operative Milk Prod. Fed. Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -67px no-repeat;" title="Bihar State Road Development Corp Pvt. Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -804px no-repeat;" title="Nagar Nigam, Patna " href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -268px no-repeat;" title="Birla Institute of Technology" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -0px no-repeat;" title="Bihar State Tourism Development Corporation Ltd." href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li><li style="overflow: visible; float: left; width: 105px; height: 67px;"><a class="ClientLogos" style="width:105px;height:67px;background:url(assets/_sprites/f275830fe543f8071fdcc64b143195d6/sprite.png) 0 -469px no-repeat;" title="Mahila Samakhya- Bihar" href="http://www.shaktiinfotech.in/clients/our-clients/index.html"></a></li></ul>
+					
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+	    var ul = jQuery(".minigallery ul");
+	    jQuery(jQuery("li", ul).detach().toArray().shuffle()).each(function() {
+	    	ul.append(this);
+	    });
+		jQuery(".minigallery").jCarouselLite({
+			btnNext: ".minigallerynext",
+			btnPrev: ".minigalleryprev",
+			scroll: 1,
+			visible: 5,
+			speed: 400,
+			mouseWheel: true,
+			circular:true,
+			auto: 50000,
+			easing: "easeInOutCubic"
+		});
+	});
+</script>	
+
+	</div>
+</div>
+<div style="clear:both"></div>
+<div id="footer">
+  <div class="wrapp">
+    <div class="columns">
+      <div class="box contacts">
+        <h3>Contacts Us</h3>
+        <div class="text">
+          <ul>
+            <!--li class="icons house">154a, Borschagivska str., Kiev, Ukraine</li-->
+            <li class="icons phone"> +91-612-2214999 / 2214777 </li>
+            <li class="icons mail">tally.patna@yahoo.com </li>
+          </ul>
+        </div>
+        <h3>Address</h3>
+        <div class="text">
+          <ul>
+            <li><a href="http://www.shaktiinfotech.in/contactus.html">2nd Floor, AC Market, Opp. Brindawan Sweets, New Dakbunglow Road, Patna - 800001, Bihar (India)</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="box">
+        <h3>Stay Connected</h3>
+        <div class="text">
+          <ul class="wearesocial">
+            <a class="facebook" target="_blank" href="https://www.facebook.com/shaktiinfotechpatna"></a> 
+                <g:plusone></g:plusone>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="box">
+        <h3>Tally Service Center</h3>
+        <div class="text">
+          <ul id="WPlinks_list">
+            <li><a href="http://www.shaktiinfotech.in/services/priority-tally-support/index.html"> Tally ERP 9 Support &amp; Services</a></li>
+            <li><a href="http://www.shaktiinfotech.in/services/onsite-and-remote-support/index.html"> Tally 9 Onsite &amp; Remote Support</a></li>
+            <li><a href="http://www.shaktiinfotech.in/services/tally-services/index.html"> Tally.NET Services</a></li>
+            <li><a href="http://www.shaktiinfotech.in/services/implementation-services/index.html"> Tally ERP Implementation Services</a></li>
+            <li><a href="http://www.shaktiinfotech.in/services/customization-services/index.html"> Tally 9.0 Customization Services</a></li>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="box">
+        <h3>Try it now!</h3>
+        <div class="text" style="border:none">
+          <div class="button"><a href="http://www.shaktiinfotech.in/global-approach/engagement-models/pilot-project/index.html" title="Pilot Project">Buy Online</a></div>
+          <div class="button"><a href="http://www.shaktiinfotech.in/company/contacts/request-a-quote/index.html" title="Request a Quote">Get a Quote</a></div>
+          <div class="button"><a href="http://www.shaktiinfotech.in/tallydownload.html" title="Downlaod Tally">Download Tally</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="menu">
+    <ul>
+      <li><a href="http://www.shaktiinfotech.in/company/contacts/request-a-quote/index.html">Request a Quote</a></li>
+      <li><a href="http://www.shaktiinfotech.in/company/contacts/call-me-back/index.html">Call me Back</a></li>
+      <li><a href="http://www.shaktiinfotech.in/index.html#">Site map</a></li>
+      <li><a href="http://www.shaktiinfotech.in/company/contacts/contact-information/index.html">Contact Information</a></li>
+      <li><a href="http://www.shaktiinfotech.in/company/careers/index.html">Career</a></li>
+      <li><a href="http://www.shaktiinfotech.in/index.html#">Knowledge Center</a></li>
+    </ul>
+  </div>
+  <div class="copyright">
+    <ul class="level0">
+      <li><a href="http://omnihosting.in/">Site Design and Developed by Omni Hosting</a></li>
+    </ul>
+  </div>
+  <div class="copyright">© shaktiinfotech.in &nbsp;All rights reserved.</div>
+</div>
+
+
+<a class="qa-test-button" href="http://www.shaktiinfotech.in/yourbusinessanalyzer/index.html"></a>
+
+
+<script type="text/javascript" src="./ndbc_files/jquery.min.js.download"></script><script type="text/javascript" src="./ndbc_files/main.js.download"></script><script type="text/javascript" src="./ndbc_files/jquery.validate.min.js.download"></script><script type="text/javascript" src="./ndbc_files/messages_en.js.download"></script><script type="text/javascript" src="./ndbc_files/additional-methods.js.download"></script><script type="text/javascript" src="./ndbc_files/qa.form.validation.js.download"></script><script type="text/javascript" src="./ndbc_files/jquery.scrollTo-min.js.download"></script><script type="text/javascript" src="./ndbc_files/home.js.download"></script><script type="text/javascript">
+jQuery(window).load(function() {
+	var s = document.createElement('script');
+	s.setAttribute('type', 'text/javascript');
+	s.setAttribute('src', "../apis.google.com/js/plusone.js");
+	document.getElementsByTagName('body')[0].appendChild(s);
+});
+</script>
+
+
+
+
+<script type="text/javascript" src="./ndbc_files/plusone.js.download"></script></body></html>
